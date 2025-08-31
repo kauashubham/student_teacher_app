@@ -1,0 +1,7 @@
+{
+  "name": "EDUVYN - AI-Powered Learning Platform",
+  "description": "An integrated educational platform for students, teachers, parents, and administrators, featuring AI-powered tools for summarization, quizzing, and performance monitoring to enhance the learning experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
